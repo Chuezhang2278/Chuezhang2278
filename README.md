@@ -6,7 +6,7 @@
 
 ### You can find me at:
 
-<img align="left" alt="Chue | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://www.linkedin.com/in/chue-zhang/ <br />
+<img align="left" alt="Chue | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://www.linkedin.com/in/chue-zhang/ 
 <img align="left" alt="Chue | Discord" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/55a3163a72055b34964218325eb782d978efd661/icons/discord.svg" />Andy#6969
 
 ### Some stuff ive played with before:
