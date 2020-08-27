@@ -34,7 +34,4 @@
 <img align="left" alt="Riot" width="26px" src="https://img.icons8.com/color/48/000000/riot-games.png" />
 <img align="left" alt="Twitter" width="26px" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/>
 
-### Test message 
-
-This is a test message
 
