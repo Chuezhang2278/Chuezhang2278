@@ -4,7 +4,7 @@
 - <img align="middle" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/> I'm currently learning NodeJS and HTML <img align="middle" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"/>
 -  &nbsp;🖱 &nbsp;I'm also a heavy gamer
 
-### You can find me at:
+### Where to contact me:
 
 - <img align="left" alt="Chue | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://www.linkedin.com/in/chue-zhang/
 - <img align="left" alt="Chue | Gmail" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/55a3163a72055b34964218325eb782d978efd661/icons/google.svg" />Czhang003@gmail.com
