@@ -10,12 +10,11 @@
 - <img align="left" alt="Chue | Gmail" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/55a3163a72055b34964218325eb782d978efd661/icons/google.svg" />Czhang003@gmail.com
 - <img align="left" alt="Chue | Discord" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/55a3163a72055b34964218325eb782d978efd661/icons/discord.svg" />Andy#6969
 
-### Some tools and API i've worked with:
+### Some tools I use:
 
 <img align="left" alt="VScode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png" />
 <img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="Riot" width="26px" src="https://img.icons8.com/color/48/000000/riot-games.png" />
+
 <br />
 
 ### Some languages I've played with:
@@ -25,6 +24,14 @@
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
+
+<br />
+
+### Some APIs i'm familiar with:
+
+<img align="left" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png" />
+<img align="left" alt="Riot" width="26px" src="https://img.icons8.com/color/48/000000/riot-games.png" />
+<img align="left" alt="Twitter" width="26px" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/>
 
 
 
