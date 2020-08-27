@@ -38,6 +38,3 @@
 
 This is a test message
 
-asdsadsdasda
-asdasda
-asdsadsad
