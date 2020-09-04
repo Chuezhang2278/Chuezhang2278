@@ -1,4 +1,4 @@
-## HELLO! I'm Chue (Andy), A Senior Computer Science Major @ CCNY!
+## HELLO! I'm Chue (Andy) Zhang, A Senior Computer Science Major @ CCNY!
 - <img align="middle" alt="Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png"/> I'm currently working on a Discord Bot A.K.A **"AndyBot"** 🤖
 - 🌃 A Full Stack Web Developer Fellow @ **CUNY Tech Prep** 
 - <img align="middle" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/> I'm currently learning NodeJS and HTML <img align="middle" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"/>
